@@ -269,7 +269,7 @@ h6,
 }
 @media all and (max-width: 768px) {
   h1 {
-    font-size: 40px;
+    font-size: 27px;
     line-height: 48px;
     font-weight: 300;
   }
