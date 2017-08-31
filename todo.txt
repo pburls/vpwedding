@@ -8,3 +8,4 @@ Completed:
 - Fixed header section header text size on small media.
 - Fixed accommodation and added hyperlinks.
 - Fixed header text size on small media.
+- Fixed transport text and h5 line height.
