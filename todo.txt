@@ -9,3 +9,4 @@ Completed:
 - Fixed accommodation and added hyperlinks.
 - Fixed header text size on small media.
 - Fixed transport text and h5 line height.
+- Fixed things to do text.
