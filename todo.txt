@@ -1,5 +1,5 @@
 ** Website Improvements **
-- Accomodation: Make the accommodation websites address into actual hyper links.
+- Accommodation: Make the accommodation websites address into actual hyper links.
 - Transport: Add some maps?
 - Things to do: Bullet point some of the items? Yes
 - Details for the day: Map showing locations?
@@ -10,3 +10,4 @@ Completed:
 - Fixed header text size on small media.
 - Fixed transport text and h5 line height.
 - Fixed things to do text.
+- Fixed welcome anchor link.
