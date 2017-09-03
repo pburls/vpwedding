@@ -11,3 +11,4 @@ Completed:
 - Fixed transport text and h5 line height.
 - Fixed things to do text.
 - Fixed welcome anchor link.
+- Fixed nav menu name order. Fixed gallery header size on small media.
