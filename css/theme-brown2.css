@@ -1069,7 +1069,7 @@ nav.light.scrolled .line-3 {
 }
 @media all and (max-width: 767px) {
   .gallery-2 h1 {
-    font-size: 40px;
+    font-size: 30px;
     max-width: 100%;
     font-weight: 300;
     line-height: 68px;
