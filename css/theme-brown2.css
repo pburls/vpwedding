@@ -850,7 +850,58 @@ nav.light.scrolled .line-3 {
 .details-1 p:last-of-type {
   margin-bottom: 30px;
 }
+.details-1 img {
+  max-width: 345px;
+  display: inline-block;
+  transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  transform: scale(1);
+  -webkit-transform: scale(1);
+  position: relative;
+  z-index: 1;
+}
+.details-1 img:hover {
+  transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  z-index: 2;
+  opacity: 1;
+}
+.details-1 img.fade {
+  opacity: .3;
+  transform: scale(0.94);
+  -webkit-transform: scale(0.94);
+}
+.details-1 img {
+  margin-bottom: 60px;
+}
+@media all and (max-width: 1024px) {
+  .details-1 img {
+    max-width: 250px;
+  }
+}
+@media all and (max-width: 768px) {
+  .details-1 img {
+    max-width: 200px;
+  }
+}
 @media all and (max-width: 767px) {
+  .details-1 img {
+    margin-bottom: 5px;
+    max-width: 100%;
+  }
+  .details-1 img:last-child {
+    margin-bottom: 30px;
+  }
+  .details-1 img.fade {
+    opacity: 1;
+    transform: scale(1);
+    -webkit-transform: scale(1);
+  }
+  .details-1 img:hover {
+    transform: scale(1);
+    -webkit-transform: scale(1);
+  }
   .details-1 .feature br {
     display: block;
   }
